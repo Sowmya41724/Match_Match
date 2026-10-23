@@ -56,7 +56,7 @@ Flip the cards, find all the pairs, and earn up to 3 stars on every level!
 
 
 
-Download the latest APK from the \[Releases](../../releases) page and install it on your Android phone.
+Download the latest APK from the \[Releases](https://github.com/Sowmya41724/Match_Match/releases/tag/v1.0) page and install it on your Android phone.
 
 
 
