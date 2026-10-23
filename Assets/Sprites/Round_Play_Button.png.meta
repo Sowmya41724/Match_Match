@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 54ca0408361109a4a91e5bd9f1873bcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8176844637135416639
+    second: Round_Play_Button_0
+  - first:
+      213: -8466437226320480644
+    second: Round_Play_Button_1
+  - first:
+      213: 6295524212089403724
+    second: Round_Play_Button_2
+  - first:
+      213: 3613104981275827147
+    second: Round_Play_Button_3
+  - first:
+      213: 1797306619422991861
+    second: Round_Play_Button_4
+  - first:
+      213: 5184045374153348755
+    second: Round_Play_Button_5
+  - first:
+      213: 6745850204992363678
+    second: Round_Play_Button_6
+  - first:
+      213: -8264986783563175215
+    second: Round_Play_Button_7
+  - first:
+      213: -1602017967593718755
+    second: Round_Play_Button_8
+  - first:
+      213: 2075231229725648759
+    second: Round_Play_Button_9
+  - first:
+      213: -8525236452291483831
+    second: Round_Play_Button_10
+  - first:
+      213: -1620965451130699708
+    second: Round_Play_Button_11
+  - first:
+      213: 7560987875653828028
+    second: Round_Play_Button_12
+  - first:
+      213: -1664510183832135845
+    second: Round_Play_Button_13
+  - first:
+      213: -3053653300442286664
+    second: Round_Play_Button_14
+  - first:
+      213: -8268632704013685329
+    second: Round_Play_Button_15
+  - first:
+      213: 1730064971414805343
+    second: Round_Play_Button_16
+  - first:
+      213: 6163450641088919376
+    second: Round_Play_Button_17
+  - first:
+      213: 4906692284673489188
+    second: Round_Play_Button_18
+  - first:
+      213: -5924764567692260244
+    second: Round_Play_Button_19
+  - first:
+      213: 2597137521307036559
+    second: Round_Play_Button_20
+  - first:
+      213: -7197655381855263177
+    second: Round_Play_Button_21
+  - first:
+      213: -7919919507718353811
+    second: Round_Play_Button_22
+  - first:
+      213: -3420278777354473600
+    second: Round_Play_Button_23
+  - first:
+      213: 7104347844406564555
+    second: Round_Play_Button_24
+  - first:
+      213: -4341234400044484441
+    second: Round_Play_Button_25
+  - first:
+      213: -8348983233261783484
+    second: Round_Play_Button_26
+  - first:
+      213: 6922418778262447712
+    second: Round_Play_Button_27
+  - first:
+      213: 6243262383388968531
+    second: Round_Play_Button_28
+  - first:
+      213: -4390776399578743289
+    second: Round_Play_Button_29
+  - first:
+      213: -4374550024740808358
+    second: Round_Play_Button_30
+  - first:
+      213: -2895712091349951641
+    second: Round_Play_Button_31
+  - first:
+      213: 3290195999697617010
+    second: Round_Play_Button_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Round_Play_Button_0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1152
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3da30cefdcf97170800000000000000
+      internalID: 8176844637135416639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1112
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c763604233c218a80800000000000000
+      internalID: -8466437226320480644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1173
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b5707ae13e5750800000000000000
+      internalID: 6295524212089403724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 1046
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd32166d3542230800000000000000
+      internalID: 3613104981275827147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1146
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f56a2b09d051f810800000000000000
+      internalID: 1797306619422991861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1140
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396dae13dcd61f740800000000000000
+      internalID: 5184045374153348755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_6
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1110
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cd09835031e9d50800000000000000
+      internalID: 6745850204992363678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1066
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2b646f4edc4d80800000000000000
+      internalID: -8264986783563175215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_8
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1060
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c78c5752d74c9e0800000000000000
+      internalID: -1602017967593718755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 126
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7772892fec3bccc10800000000000000
+      internalID: 2075231229725648759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_10
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 889
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94764f28d9640b980800000000000000
+      internalID: -8525236452291483831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 745
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408c2ca28c2189e0800000000000000
+      internalID: -1620965451130699708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_12
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 767
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb16fb9660ee860800000000000000
+      internalID: 7560987875653828028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 712
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575aa78ec876e8e0800000000000000
+      internalID: -1664510183832135845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 656
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b530ff808e3f95d0800000000000000
+      internalID: -3053653300442286664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_15
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 632
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad26136d5aef3d80800000000000000
+      internalID: -8268632704013685329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b968bdcec620810800000000000000
+      internalID: 1730064971414805343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 566
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05732c4e3b9f88550800000000000000
+      internalID: 6163450641088919376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 523
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429fc1ad2a2181440800000000000000
+      internalID: 4906692284673489188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 518
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc1e4340207cda0800000000000000
+      internalID: -5924764567692260244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_20
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 489
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b285eb0d2ea0420800000000000000
+      internalID: 2597137521307036559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 505
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736a6d4a09acc1c90800000000000000
+      internalID: -7197655381855263177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc2c45b2bc61290800000000000000
+      internalID: -7919919507718353811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 465
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08faafac29ab880d0800000000000000
+      internalID: -3420278777354473600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 411
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65aaa59b6b79260800000000000000
+      internalID: 7104347844406564555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 389
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a874a26056d0c3c0800000000000000
+      internalID: -4341234400044484441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_26
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 351
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4463db1fbf3722c80800000000000000
+      internalID: -8348983233261783484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 292
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a3d8c33f511060800000000000000
+      internalID: 6922418778262447712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35645793f0684a650800000000000000
+      internalID: 6243262383388968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb0feb024d013c0800000000000000
+      internalID: -4390776399578743289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 103
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59d52b0ee97a43c0800000000000000
+      internalID: -4374550024740808358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b584fe13d50d7d0800000000000000
+      internalID: -2895712091349951641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_Play_Button_32
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 58
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270436b54df19ad20800000000000000
+      internalID: 3290195999697617010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Round_Play_Button_0: 8176844637135416639
+      Round_Play_Button_1: -8466437226320480644
+      Round_Play_Button_10: -8525236452291483831
+      Round_Play_Button_11: -1620965451130699708
+      Round_Play_Button_12: 7560987875653828028
+      Round_Play_Button_13: -1664510183832135845
+      Round_Play_Button_14: -3053653300442286664
+      Round_Play_Button_15: -8268632704013685329
+      Round_Play_Button_16: 1730064971414805343
+      Round_Play_Button_17: 6163450641088919376
+      Round_Play_Button_18: 4906692284673489188
+      Round_Play_Button_19: -5924764567692260244
+      Round_Play_Button_2: 6295524212089403724
+      Round_Play_Button_20: 2597137521307036559
+      Round_Play_Button_21: -7197655381855263177
+      Round_Play_Button_22: -7919919507718353811
+      Round_Play_Button_23: -3420278777354473600
+      Round_Play_Button_24: 7104347844406564555
+      Round_Play_Button_25: -4341234400044484441
+      Round_Play_Button_26: -8348983233261783484
+      Round_Play_Button_27: 6922418778262447712
+      Round_Play_Button_28: 6243262383388968531
+      Round_Play_Button_29: -4390776399578743289
+      Round_Play_Button_3: 3613104981275827147
+      Round_Play_Button_30: -4374550024740808358
+      Round_Play_Button_31: -2895712091349951641
+      Round_Play_Button_32: 3290195999697617010
+      Round_Play_Button_4: 1797306619422991861
+      Round_Play_Button_5: 5184045374153348755
+      Round_Play_Button_6: 6745850204992363678
+      Round_Play_Button_7: -8264986783563175215
+      Round_Play_Button_8: -1602017967593718755
+      Round_Play_Button_9: 2075231229725648759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
