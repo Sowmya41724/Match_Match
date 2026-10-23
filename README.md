@@ -10,11 +10,11 @@ Flip the cards, find all the pairs, and earn up to 3 stars on every level!
 
 <p align="center">
 
-&#x20; <img src="screenshots/home\_screen.jpeg" width="250">
+&#x20; <img src="screenshots/home_screen.jpeg" width="250">
 
-&#x20; <img src="screenshots/level\_screen.jpeg" width="250">
+&#x20; <img src="screenshots/level_screen.jpeg" width="250">
 
-&#x20; <img src="screenshots/game\_screen.jpeg" width="250">
+&#x20; <img src="screenshots/game_screen.jpeg" width="250">
 
 </p>
 
